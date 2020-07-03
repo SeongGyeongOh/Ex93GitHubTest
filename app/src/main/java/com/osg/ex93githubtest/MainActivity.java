@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         int a=10;
+        
+        int b=1000;
+        String s = "Hello GitHub";
     }
 }
